@@ -1,0 +1,7 @@
+ကျန် -
+
+‌- Alert box(update,delete) လုပ်ရန်ကျန်
+- Noti လှအောင် ပြင်ရန်ကျန်
+- Noti တွေ ခွဲခြမ်း စိတ်ဖြာရန် (approve noti , update noti , delete noti)
+- Noti time format ချိန်းရန်ကျန်
+- upcoming meeting တွေ date အလိုက် filter လုပ်ရန်ကျန်
